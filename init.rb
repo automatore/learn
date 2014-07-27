@@ -12,3 +12,5 @@ cart.add_item item2
 p cart.items
 item1.info {|attr| puts attr}
 item2.info {|attr| puts attr}
+
+puts "r-r-r-r-miaw!!!"
